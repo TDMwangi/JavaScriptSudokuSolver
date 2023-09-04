@@ -15,3 +15,16 @@
   background-color: cadetblue;
   color: white;
 }
+
+#solve-button {
+  background-color: mediumblue;
+  color: white;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 24px;
+  border: none;
+}
+
+#solve-button:hover {
+  cursor: pointer;
+}

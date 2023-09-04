@@ -7,5 +7,8 @@ A JavaScript sudoku solver project implemented with Radip API Hub (https://rapid
 Open the index.html file in your browser then in your terminal run:
 
 ```sh
+npm install
 npm run dev
 ```
+
+![image info](./img/1.png)
